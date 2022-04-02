@@ -1,0 +1,5 @@
+task_code_type;task_condition;task_code;task_key;effective_date;expiration_date
+KANTOR;подходит;VTB_INN;7708683999;2018-01-01;2999-12-31
+KANTOR;не подходит;EXCLUDED_CLAIM;7799999999;2018-01-01;2999-12-31
+RAPTOR;не подходит;VTB_INN;7708683999;2018-01-01;2999-12-31
+KANTOR;не подходит;VTB_INN;7708683999;2018-01-01;2019-12-31
